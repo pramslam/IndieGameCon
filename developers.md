@@ -1,3 +1,3 @@
-### Developers
-Panguin Games
+## Developers
+#### Panguin Games
 http://www.panguingames.com
