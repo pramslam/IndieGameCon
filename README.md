@@ -21,7 +21,7 @@ IGC has been an annual event in Eugene, Oregon since 2013.
 - Prizes! For playing developer games.
 ```
 
-### Sponsors
+### [Sponsors](/Sponsors.md)
 - Glimmer
 
 ### Developers
