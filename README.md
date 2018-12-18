@@ -16,8 +16,8 @@ IGC has been an annual event in Eugene, Oregon since 2013.
 - Programming Demo: A demo showcasing programming on how we make games.
 - Art Demo: A demo showcasing art techniques.
 - Scavenger Hunt: An AR scavenger hunt. Powered by Glimmer
-- Badgers: Badges provided by Badgr.
-- Prizes! For playing developer games.
+- Collect Badges: For playing developer games. Badges provided by Badgr.
+- Prizes! For collecting Badges.
 
 ### Sponsors
 - Sponsor Letter
