@@ -9,8 +9,8 @@ IGC has been an annual event in Eugene, Oregon since 2013.
 
 ### Features (pending)
 ```
-- Saturday: Developer Day
-- Sunday: Everyone is welcome!
+- [Saturday](/saturday.md): Developer Day
+- [Sunday](/sunday.md): Everyone is welcome!
 - Let's Play! An open time for attendees to play developer games.
 - Dev Panel Talk: A developer panel with speakers from the indie game convention.
 - Developer Dinner: We host a dinner on Saturday with all the developers.
@@ -21,11 +21,11 @@ IGC has been an annual event in Eugene, Oregon since 2013.
 - Prizes! For playing developer games.
 ```
 
-### [Sponsors](/Sponsors.md)
-- Glimmer
+### [Sponsors](/sponsors.md)
+- Glimmer Technology
 
-### Developers
+### [Developers](/developers.md)
 - Panguin Games
 
-### Indie Games
+### [Featured Games](/games.md)
 - Lightspeed Lifesaver, Panguin Games
