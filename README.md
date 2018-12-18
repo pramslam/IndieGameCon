@@ -8,7 +8,6 @@ Thank you for your interest in contributing to IndieGameCon!
 IGC has been an annual event in Eugene, Oregon since 2013.
 
 ### Features (pending)
-```
 - [Saturday](/saturday.md): Developer Day
 - [Sunday](/sunday.md): Everyone is welcome!
 - Let's Play! An open time for attendees to play developer games.
@@ -19,7 +18,6 @@ IGC has been an annual event in Eugene, Oregon since 2013.
 - Scavenger Hunt: An AR scavenger hunt. Powered by Glimmer
 - Badgers: Badges provided by Badgr.
 - Prizes! For playing developer games.
-```
 
 ### [Sponsors](/sponsors.md)
 - Glimmer Technology
