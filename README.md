@@ -19,11 +19,13 @@ IGC has been an annual event in Eugene, Oregon since 2013.
 - Badgers: Badges provided by Badgr.
 - Prizes! For playing developer games.
 
-### [Sponsors](/sponsors.md)
-- Glimmer Technology
+### Sponsors
+- Sponsor Letter
+- [Sponsors](/sponsors.md)
 
-### [Developers](/developers.md)
-- Panguin Games
+### Developers
+- Developer Letter
+- [Developers](/developers.md)
 
-### [Featured Games](/games.md)
-- Lightspeed Lifesaver, Panguin Games
+### Featured Games
+- [Games List](/games.md)
