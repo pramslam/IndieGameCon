@@ -8,8 +8,8 @@ Thank you for your interest in contributing to IndieGameCon!
 IGC has been an annual event in Eugene, Oregon since 2013.
 
 ### Features (pending)
-- [Saturday](/weekend.md): Developer Day
-- [Sunday](/weekend.md): Everyone is welcome!
+- [Saturday](/schedule.md): Developer Day
+- [Sunday](/schedule.md): Everyone is welcome!
 - Let's Play! An open time for attendees to play developer games.
 - Dev Panel Talk: A developer panel with speakers from the indie game convention.
 - Developer Dinner: We host a dinner on Saturday with all the developers.
