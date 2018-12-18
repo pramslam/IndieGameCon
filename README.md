@@ -20,7 +20,7 @@ IGC has been an annual event in Eugene, Oregon since 2013.
 - Prizes! For collecting Badges.
 
 ### Sponsors
-- Sponsor Letter
+- [Sponsor Letter](https://drive.google.com/file/d/1v_mJVsyk6jkRfvUS4bmFVezMhRb852BQ/view?usp=sharing)
 - [Sponsors](/sponsors.md)
 
 ### Developers
