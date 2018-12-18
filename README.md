@@ -1,37 +1,29 @@
 ## Welcome to the Indie Game Convention Contributor Page
+Thank you for your interest in contributing to IndieGameCon!
 
-You can use the [editor on GitHub](https://github.com/pramslam/IndieGameCon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### What is Indie Game Con?
+1. A place where game developers can meet, make new connections and exchange ideas.
+2. An event where game developers can show off their creator-owned games to the mainstream audience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IGC has been an annual event in Eugene, Oregon since 2013.
 
-### Markdown
+### Features (pending)
+- Saturday: Developer Day
+- Sunday: Everyone is welcome!
+- Let's Play! An open time for attendees to play developer games.
+- Dev Panel Talk: A developer panel with speakers from the indie game convention.
+- Developer Dinner: We host a dinner on Saturday with all the developers.
+- Programming Demo: A demo showcasing programming on how we make games.
+- Art Demo: A demo showcasing art techniques.
+- Scavenger Hunt: An AR scavenger hunt. Powered by Glimmer
+- Badgers: Badges provided by Badgr.
+- Prizes! For playing developer games.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sponsors
+- Glimmer
 
-```markdown
-Syntax highlighted code block
+### Developers
+- Panguin Games
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pramslam/IndieGameCon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Indie Games
+- Lightspeed Lifesaver, Panguin Games
