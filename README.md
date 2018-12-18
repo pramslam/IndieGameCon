@@ -1,5 +1,5 @@
-## Welcome to the Indie Game Convention Contributor Page
-Thank you for your interest in contributing to IndieGameCon!
+## Indie Game Convention Contributor Page
+This is the open repo where planning is happening by the leadership team as well as documentation, the web site, and other assets we'd like to share with the world.
 
 ### Leadership Team
 - [David Lo](https://www.github.com/pramslam)
