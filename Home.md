@@ -8,18 +8,9 @@ Smartdown extends the simple expressivity of the [Markdown](https://en.wikipedia
 
 Use the navigation buttons below to explore different aspects of Smartdown. You can always go [Back to Home](:@Home).
 
-|Basics|Data Science|Fun & Learning|Advanced & Experiments|
-|:---:|:---:|:---:|:---:|
-|[Readme](:@README)|[Graphviz](:@Graphviz)|[MadLibs](:@MadLibs)|[Processes](:@Processes)|
-|[Markdown](:@Markdown)|[D3](:@D3)|[Cuneiform](:@Cuneiform)|[Javascript](:@Javascript)|
-|[Math](:@Math)|[SVG](:@SVG)|[Mobius](:@Mobius)|[Conic](:@Conic)|
-|[Images](:@Images)|[Plotly](:@Plotly)|[Temperature](:@Temperature)|[Mandelbrot](:@Mandelbrot)|
-|[Tweets](:@Tweets)|[Maps](:@Maps)|[Vector Field](:@VectorField)|[LDF](:@LDF)|
-|[Audio and Video](:@Video)|[Stdlib](:@Stdlib)|[Tree](:@Tree)|[YouTube](:@YouTube)|
-|[Gists](:@Gists)|[ThreeJS](:@Three)|[VectorTree](:@VectorTree)|[Extensions](:@Extensions)|
-|[Cells](:@Cells)|[P5JS](:@P5JS)|[Dungeon](:@Dungeon)|[Brython](:@Brython)|
-|[Multicards](:@Multicards)|[Mermaid](:@Mermaid)|[Dungeon3D](:@Games)|[P5Play](:@P5Play)|
-||||[Disclosables](:@Disclosables)|
+|IndieGameCon|------|
+|:--:|:------:|
+|||
 
 ---
 
