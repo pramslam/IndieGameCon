@@ -12,7 +12,7 @@ This is the open repo where planning is happening by the leadership team as well
 
 IGC has been an annual event in Eugene, Oregon since 2013.
 
-### Features (pending)
+### Planned Events (pending)
 - [Saturday](/schedule.md): Developer Day
 - [Sunday](/schedule.md): Everyone is welcome!
 - Let's Play! An open time for attendees to play developer games.
