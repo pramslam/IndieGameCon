@@ -2,22 +2,22 @@
 This is the hub for the event documents. Check the issues tab to see our current issues and milestones.
 
 ### Planned Events
-- [Saturday](/schedule.md): Developer Day
-- [Sunday](/schedule.md): Everyone is welcome!
+- [Saturday](/docs/schedule.md): Developer Day
+- [Sunday](/docs/schedule.md): Everyone is welcome!
 
 ### Sponsors
 - [Sponsor Letter](https://docs.google.com/document/d/12R5b4mLvycdPlKHYyT0FTPReC6NtCjP0VJ81tkDJk1g/edit?usp=sharing)
-- [Sponsors](/sponsors.md)
+- [Sponsors](/docs/sponsors.md)
 
 ### Developers
 - Developer Letter
-- [Developers](/developers.md)
+- [Developers](/docs/developers.md)
 
 ### Featured Games
-- [Games List](/games.md)
+- [Games List](/docs/games.md)
 
 ### Important Documents
-- [Documents](/documents.md)
+- [Documents](/docs/documents.md)
 
 ### Links
 Join our [Slack](https://eugenetech.slack.com/messages/CEFCH0KCK/)
