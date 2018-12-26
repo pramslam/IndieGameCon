@@ -11,31 +11,31 @@ Location is TBD but will definitely be downtown, Eugene.
 ## Submit a game
 We are looking for games that can be shown at the event. Maybe you have a prototype project. We can help you with feedback. Perhaps you are ready to show off your creation. We can get you exposure. Or maybe you have a long lost project you just want to show the world. That works too! We would love to see all your creations and projects!
 
-[Fill in the game form here](https://github.com/pramslam/IndieGameCon/docs/forms.md)
+[Fill in the game form here](https://github.com/pramslam/IndieGameCon/blob/master/docs/forms.md)
 
 ## Signup as a Contributor, Volunteer, or Buy a Ticket
-[Get your ticket on eventbrite](https://github.com/pramslam/IndieGameCon/docs/forms.md)
+[Get your ticket on eventbrite](https://github.com/pramslam/IndieGameCon/blob/master/docs/forms.md)
 
 ## Sponsor
 [Download Sponsor Details](https://docs.google.com/document/d/12R5b4mLvycdPlKHYyT0FTPReC6NtCjP0VJ81tkDJk1g/edit?usp=sharing)
 
-[Sponsors List](https://github.com/pramslam/IndieGameCon/docs/sponsors.md)
+[Sponsors List](https://github.com/pramslam/IndieGameCon/blob/master/docs/sponsors.md)
 
 ## Code of Conduct
-[View our Code of Conduct](https://github.com/pramslam/IndieGameCon/CODE_OF_CONDUCT.md)
+[View our Code of Conduct](https://github.com/pramslam/IndieGameCon/blob/master/CODE_OF_CONDUCT.md)
 
 ## Developers
 Developer Letter
 
-[Developers](https://github.com/pramslam/IndieGameCon/docs/developers.md)
+[Developers](https://github.com/pramslam/IndieGameCon/blob/master/docs/developers.md)
 
 ### Featured Games
-[Games List](https://github.com/pramslam/IndieGameCon/docs/games.md)
+[Games List](https://github.com/pramslam/IndieGameCon/blob/master/docs/games.md)
 
 ### Schedule
-[Saturday](https://github.com/pramslam/IndieGameCon/docs/schedule.md): Developer Day
+[Saturday](https://github.com/pramslam/IndieGameCon/blob/master/docs/schedule.md): Developer Day
 
-[Sunday](https://github.com/pramslam/IndieGameCon/docs/schedule.md): Everyone is welcome!
+[Sunday](https://github.com/pramslam/IndieGameCon/blob/master/docs/schedule.md): Everyone is welcome!
 
 ### Links
 Join our [Slack](https://eugenetech.slack.com/messages/CEFCH0KCK/)
