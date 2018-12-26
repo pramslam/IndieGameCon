@@ -37,7 +37,7 @@ Developer Letter
 
 [Sunday](https://github.com/pramslam/IndieGameCon/blob/master/docs/schedule.md): Everyone is welcome!
 
-![IndieGameConLogo](https://github.com/pramslam/IndieGameCon/blob/master/resources/indiegamecon_logo_m.png?raw=true)*IndieGameCon Logo*
+![IndieGameConLogo](https://github.com/pramslam/IndieGameCon/blob/master/resources/indiegamecon_logo_m.png?raw=true)
 
 ### Links
 Join our [Slack](https://eugenetech.slack.com/messages/CEFCH0KCK/)
