@@ -22,6 +22,6 @@ This is the hub for the event documents. Check the issues tab to see our current
 ### Links
 Join our [Slack](https://eugenetech.slack.com/messages/CEFCH0KCK/)
 
-See our [Github pages](https://pramslam.github.io/IndieGameCon/)
+View this in [Github pages](https://pramslam.github.io/IndieGameCon/)
 
-Check out our [Github](https://github.com/pramslam/IndieGameCon/)
+See this in [Github](https://github.com/pramslam/IndieGameCon/)
