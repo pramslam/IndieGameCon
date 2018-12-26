@@ -32,8 +32,6 @@ We are looking for games that can be shown at the event. Maybe you have a protot
 ## Schedule
 [Schedule](https://github.com/pramslam/IndieGameCon/blob/master/docs/schedule.md)
 
-![IndieGameConLogo](https://github.com/pramslam/IndieGameCon/blob/master/resources/indiegamecon_logo_m.png?raw=true)
-
 ### Additional Links
 Join our [Slack](https://eugenetech.slack.com/messages/CEFCH0KCK/)
 
@@ -42,3 +40,5 @@ View this in [Github pages](https://pramslam.github.io/IndieGameCon/)
 See this in [Github](https://github.com/pramslam/IndieGameCon/)
 
 [Important Documents](https://github.com/pramslam/IndieGameCon/docs/documents.md)
+
+![IndieGameConLogo](https://github.com/pramslam/IndieGameCon/blob/master/resources/indiegamecon_logo_m.png?raw=true)
