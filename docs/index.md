@@ -1,4 +1,7 @@
-### Planned Events (pending)
+### Guidelines for Contributing
+This is the hub for the event documents. Check the issues tab to see our current issues and milestones.
+
+### Planned Events
 - [Saturday](/schedule.md): Developer Day
 - [Sunday](/schedule.md): Everyone is welcome!
 
@@ -12,3 +15,13 @@
 
 ### Featured Games
 - [Games List](/games.md)
+
+### Important Documents
+- [Documents](/documents.md)
+
+### Links
+Join our [Slack](https://eugenetech.slack.com/messages/CEFCH0KCK/)
+
+View this in [Github pages](https://pramslam.github.io/IndieGameCon/)
+
+See this in [Github](https://github.com/pramslam/IndieGameCon/)
