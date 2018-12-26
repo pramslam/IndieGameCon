@@ -7,3 +7,7 @@ Injects animation and sound into the world, as seen through a mobile phone camer
 Relies on special images to trigger content
 Requires a free app, Glimmer XP, that is available on Apple and Android phones
 Combines traditional art forms and next-generation technology
+
+### Potential Sponsors
+
+####
