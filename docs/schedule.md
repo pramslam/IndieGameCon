@@ -2,15 +2,15 @@
 Dev Day
 These events will be focused on developer stuff and will be more intimate.
 
+game dev industry focus, with workshops, talks, etc, panel of people in the industry
+
 ## Sunday Events
 Open house 
 This day is for mainstream audience to experience the event.
 
+panels etc but with more laymen’s
+
 #### Activities
-Saturday = game dev industry focus, with workshops, talks, etc, panel of people in the industry
-
-Sunday = panels etc but with more laymen’s
-
 - Let's Play! An open time for attendees to play developer games.
 - Dev Panel Talk: A developer panel with speakers from the indie game convention.
 - Developer Dinner: We host a dinner on Saturday with all the developers.
@@ -25,7 +25,6 @@ Sunday = panels etc but with more laymen’s
 - Mobile beer carts
 - Food catering
 - Nintendo truck 
-- Find a moderator for stage interviews 
 - Programmer, designer, and artist and actually ask hard questions about what they want people to know, how to make game community and workforce better, what’s the industry like
 - Between presentations, have the sponsors talk for 2-5 minutes
 - Panel of mobile, 2D, 3D, AR, and VR game devs and talk about where those directions are headed, how best to market and sell each type of game
