@@ -10,8 +10,8 @@ Location is TBD but will definitely be downtown, Eugene.
 
 ## Submit a game
 We are looking for games that can be shown at the event. Maybe you have a prototype project. We can help you with feedback. Perhaps you are ready to show off your creation. We can get you exposure. Or maybe you have a long lost project you just want to show the world. That works too! We would love to see all your creations and projects!
--[Featured Games](https://github.com/pramslam/IndieGameCon/blob/master/docs/games.md)
--[Featured Developers](https://github.com/pramslam/IndieGameCon/blob/master/docs/developers.md)
+- [Featured Games](https://github.com/pramslam/IndieGameCon/blob/master/docs/games.md)
+- [Featured Developers](https://github.com/pramslam/IndieGameCon/blob/master/docs/developers.md)
 
 [Fill in the game form here](https://github.com/pramslam/IndieGameCon/blob/master/docs/forms.md)
 
@@ -19,8 +19,8 @@ We are looking for games that can be shown at the event. Maybe you have a protot
 [Get your ticket on eventbrite](https://github.com/pramslam/IndieGameCon/blob/master/docs/forms.md)
 
 ## Sponsor
--[Download Sponsor Details](https://docs.google.com/document/d/12R5b4mLvycdPlKHYyT0FTPReC6NtCjP0VJ81tkDJk1g/edit?usp=sharing)
--[Sponsors List](https://github.com/pramslam/IndieGameCon/blob/master/docs/sponsors.md)
+- [Download Sponsor Details](https://docs.google.com/document/d/12R5b4mLvycdPlKHYyT0FTPReC6NtCjP0VJ81tkDJk1g/edit?usp=sharing)
+- [Sponsors List](https://github.com/pramslam/IndieGameCon/blob/master/docs/sponsors.md)
 
 ## Code of Conduct
 [View our Code of Conduct](https://github.com/pramslam/IndieGameCon/blob/master/CODE_OF_CONDUCT.md)
