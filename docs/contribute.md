@@ -1,7 +1,7 @@
 ### Guidelines for Contributing
-This is the hub for the event documents.
+This is the hub for the event documents. Check the issues tab to see our current issues and milestones.
 
-### Planned Events (pending)
+### Planned Events
 - [Saturday](/schedule.md): Developer Day
 - [Sunday](/schedule.md): Everyone is welcome!
 
