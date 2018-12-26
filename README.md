@@ -1,7 +1,7 @@
 ## Indie Game Convention Contributor Page
 This is the open repo where planning is happening by the leadership team as well as documentation, the web site, and other assets we'd like to share with the world.
 
-If you'd like to jump right in, here is [how to contribute](/contribute.md).
+If you'd like to jump right in, here is [how to contribute](/docs/contribute.md).
 
 ### Leadership Team
 - [David Lo](https://www.github.com/pramslam)
