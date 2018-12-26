@@ -22,16 +22,14 @@ Sunday = panels etc but with more laymen’s
 - Physical chess game design jam
 
 #### Misc
-Mobile beer carts
-Food catering
-Nintendo truck 
-Space out panels and such
-Find a moderator for stage interviews 
-Day one talks
-Programmer, designer, and artist and actually ask hard questions about what they want people to know, how to make game community and workforce better, what’s the industry like
-Between presentations, have the sponsors talk for 2-5 minutes
-Panel of mobile, 2D, 3D, AR, and VR game devs and talk about where those directions are headed, how best to market and sell each type of game
-Workshop for VR Mozilla web browser 
-Demonstrations: mocap suit live demo
-Collaborative sculpture where everyone puts a piece of clay on it on the first day and then the second day scan it and have mocap animation of it the next day
-Every person who plays every game (and records it with the passport), they get their name in a hat or something and every couple hours a name is drawn and they could be one of the people to record their dance in the motion capture suit 
+- Mobile beer carts
+- Food catering
+- Nintendo truck 
+- Find a moderator for stage interviews 
+- Programmer, designer, and artist and actually ask hard questions about what they want people to know, how to make game community and workforce better, what’s the industry like
+- Between presentations, have the sponsors talk for 2-5 minutes
+- Panel of mobile, 2D, 3D, AR, and VR game devs and talk about where those directions are headed, how best to market and sell each type of game
+- Workshop for VR Mozilla web browser 
+- Demonstrations: mocap suit live demo
+- Collaborative sculpture where everyone puts a piece of clay on it on the first day and then the second day scan it and have mocap animation of it the next day
+- Every person who plays every game (and records it with the passport), they get their name in a hat or something and every couple hours a name is drawn and they could be one of the people to record their dance in the motion capture suit 
