@@ -13,7 +13,7 @@ We are looking for games that can be shown at the event. Maybe you have a protot
 - [Featured Games](https://github.com/pramslam/IndieGameCon/blob/master/docs/games.md)
 - [Featured Developers](https://github.com/pramslam/IndieGameCon/blob/master/docs/developers.md)
 
-[Fill in the game form here](https://github.com/pramslam/IndieGameCon/blob/master/docs/forms.md)
+[Fill in the game submission form here](https://github.com/pramslam/IndieGameCon/blob/master/docs/forms.md)
 
 ## Signup as a Contributor, Volunteer, or Buy a Ticket
 [Get your ticket on eventbrite](https://github.com/pramslam/IndieGameCon/blob/master/docs/forms.md)
