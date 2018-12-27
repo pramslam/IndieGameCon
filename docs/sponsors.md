@@ -1,6 +1,6 @@
-## Sponsors
+# Sponsors
 
-#### Glimmer Technology
+### Glimmer Technology
 http://www.glimmer.tech/
 
 Injects animation and sound into the world, as seen through a mobile phone camera
@@ -8,9 +8,9 @@ Relies on special images to trigger content
 Requires a free app, Glimmer XP, that is available on Apple and Android phones
 Combines traditional art forms and next-generation technology
 
-### Prospective Sponsors
+## Prospective Sponsors
 
-#### Travel Lane County
+### Travel Lane County
 https://www.eugenecascadescoast.org/members/about-us/
 
 Notes:
@@ -27,7 +27,7 @@ Convention Services Manager
 Phone: 541.743.8756
 Email: Linda@EugeneCascadesCoast.org
 
-#### Intel
+### Intel
 https://www.intel.com/content/www/us/en/corporate-responsibility/intel-in-oregon.html
 
 Notes:
@@ -38,7 +38,7 @@ Customers who need to contact Intel headquarters can call 1-408-765-8080 to reac
 https://www.intel.com/content/www/us/en/forms/corporate/corporate-questions-contact-us.html
 
 
-#### Lane Community College (Game Development)
+### Lane Community College (Game Development)
 https://www.lanecc.edu/cit/simulation-and-game-development
 
 Notes:
@@ -47,7 +47,7 @@ They have sponsored us in 2014.
 Contacts:
 Andy will know more info!
 
-#### RAIN EUGENE
+### RAIN EUGENE
 http://www.raineugene.org/
 
 Notes:
@@ -56,7 +56,7 @@ They have sponsored us in 2014.
 Contacts:
 None, Joe Marushak stopped working there.
 
-#### Oregon Story Board
+### Oregon Story Board
 http://www.oregonstoryboard.org/
 
 Notes:
@@ -65,7 +65,7 @@ They have sponsored us in 2014.
 Contacts:
 info@oregonstoryboard.org
 
-#### Holiday Inn Express
+### Holiday Inn Express
 https://www.ihg.com/holidayinnexpress/hotels/us/en/springfield/sfieu/hoteldetail
 
 Notes:
@@ -75,7 +75,7 @@ We may have gotten this sponsorship for keynote speaker hotel rooms.
 Contacts:
 (541) 342-1243
 
-#### Oregon Video Game Association
+### Oregon Video Game Association
 https://www.oregongames.org/
 
 Notes:
@@ -84,7 +84,7 @@ They have sponsored us in 2015.
 Contacts:
 Website lists Will Lewis as a writer but there is no contact email.
 
-#### Oregon Film
+### Oregon Film
 https://oregonfilm.org/
 
 Notes:
@@ -94,7 +94,7 @@ Contacts:
 Our office hours are generally 9am to 5pm (Monday-Friday). Please call to make an appt.
 (971) 254-4020
 
-#### Portland Indie Game Squad
+### Portland Indie Game Squad
 https://pigsquad.com/
 
 Notes:
@@ -104,7 +104,7 @@ This may be a great source for game contributors.
 Contacts:
 info@pigsquad.com
 
-#### Pixel Arts Game Education
+### Pixel Arts Game Education
 https://www.gameeducationpdx.com/
 
 Notes:
