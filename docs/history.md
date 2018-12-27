@@ -104,11 +104,11 @@ We must emphasize that the number one question we received was “When is the ne
 ### OUR TIMELINE
 Indie Game Con 2014 happened in early October. We want to target the same timeframe, just after UO students come back to school. We are also working with Sol Joye at the University of Oregon to see if synchronizing with their planned Ed/Tech Conference will further boost attendance.
 
-In January and February of 2015, we will be pursuing sponsors and partners for the event.
+##### In January and February of 2015, we will be pursuing sponsors and partners for the event.
 
-In March and April, we will be organizing Epic Oregon Game Jam, an open-invitation event (also at LCC’s downtown campus) that promotes game creation by students and independents. Indie Game Con 2015 will be announced there.
+##### In March and April, we will be organizing Epic Oregon Game Jam, an open-invitation event (also at LCC’s downtown campus) that promotes game creation by students and independents. Indie Game Con 2015 will be announced there.
 
-In May and June, we will:
+##### In May and June, we will:
 - Lay down the information infrastructure for the event (websites, a mobile app, etc)
 - Develop a marketing plan and prepare marketing materials
 - Do one final round of seeking sponsors and partners
@@ -117,14 +117,14 @@ In May and June, we will:
 - Ask for speakers to give submit proposals
 - Design a loose floor plan
 
-In July and August, we will:
+##### In July and August, we will:
 - Order print materials
 - Make advertising buys
 - Actively seek developers, artists, vendors, speakers, and volunteers
 - Finalize accommodations with LCC
 - Finalize the floor plan and schedule
 
-In September, we will shift into full-time staffing mode to ensure everything runs efficiently. Final print materials (ones that rely on a final list of developers and speakers) will be designed and printed. And, at the end of September or start of October, lots of people will travel to Eugene, a lot of coffee will be brewed, and Indie Game Con 2015 will run its course.
+##### In September, we will shift into full-time staffing mode to ensure everything runs efficiently. Final print materials (ones that rely on a final list of developers and speakers) will be designed and printed. And, at the end of September or start of October, lots of people will travel to Eugene, a lot of coffee will be brewed, and Indie Game Con 2015 will run its course.
 
 ### OVERNIGHT STAYS
 We recognize that this grant money comes from Transient Room Taxes. For us to make good on Lane County’s investment, we must reach out to consumers throughout Oregon, California, and Washington. That is our plan, should we receive funding.
