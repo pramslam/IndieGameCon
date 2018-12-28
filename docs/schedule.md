@@ -32,3 +32,16 @@ panels etc but with more laymen’s
 - Demonstrations: mocap suit live demo
 - Collaborative sculpture where everyone puts a piece of clay on it on the first day and then the second day scan it and have mocap animation of it the next day
 - Every person who plays every game (and records it with the passport), they get their name in a hat or something and every couple hours a name is drawn and they could be one of the people to record their dance in the motion capture suit 
+
+
+## Notes
+Developers will be able to show off games that they have been working on and receive face to face feedback with developers.
+
+Incentives and Prizes:
+Developers will get featured on the IndieGameCon website.
+Developer who gets the most played gets a prize.
+Developer who gets highest rating gets a prize.
+Possible publisher connections for highest rated?
+Gift card
+Coffee prize
+Cash prize
