@@ -45,3 +45,11 @@ Possible publisher connections for highest rated?
 Gift card
 Coffee prize
 Cash prize
+
+### Activity Ideas:
+Attendees will be able to play games that indie devs show off and provide face to face feedback with developers.
+
+Prizes:
+Play three games at the convention: receive a sticker
+Play every game at the convention: receive button
+Get highest total score at convention: recieve t-shirt
