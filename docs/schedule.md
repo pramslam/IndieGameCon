@@ -38,18 +38,18 @@ panels etc but with more laymen’s
 Developers will be able to show off games that they have been working on and receive face to face feedback with developers.
 
 Incentives and Prizes:
-Developers will get featured on the IndieGameCon website.
-Developer who gets the most played gets a prize.
-Developer who gets highest rating gets a prize.
-Possible publisher connections for highest rated?
-Gift card
-Coffee prize
-Cash prize
+- Developers will get featured on the IndieGameCon website.
+- Developer who gets the most played gets a prize.
+- Developer who gets highest rating gets a prize.
+- Possible publisher connections for highest rated?
+- Gift card
+- Coffee prize
+- Cash prize
 
 ### Activity Ideas:
 Attendees will be able to play games that indie devs show off and provide face to face feedback with developers.
 
 Prizes:
-Play three games at the convention: receive a sticker
-Play every game at the convention: receive button
-Get highest total score at convention: recieve t-shirt
+- Play three games at the convention: receive a sticker
+- Play every game at the convention: receive button
+- Get highest total score at convention: recieve t-shirt
