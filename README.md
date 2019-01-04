@@ -4,6 +4,7 @@ This is the open repo where planning is happening by the leadership team as well
 If you'd like to jump right in, here is [how to contribute](/docs/index.md).
 
 ### Leadership Team
-- [David Lo](https://www.github.com/pramslam)
+- [David Lo](https://github.com/pramslam)
 - [Mike Jones](https://github.com/MikeJDSGS)
 - [Andy Darnall](https://github.com/andy-dandy)
+- [Greg McKelvey](https://github.com/mckelveygreg)
