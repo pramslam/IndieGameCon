@@ -1,11 +1,11 @@
 # Website Info
 
 ## Home
-Indie Game Con
-Presented By...
-TITLE SPONSOR
+### Indie Game Con
+###### Presented By...
+##### TITLE SPONSOR
 
-Links to:
+Site Navigation:
 Home, Games, Panels, Schedule, Sponsors, Media, About, Store
 
 What is Indie Game Con?
