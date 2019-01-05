@@ -1,13 +1,35 @@
 # Website Info
 
 ## Home
-- Explainer Video
-- Who
-- What
-- Where
-- When
-- Buy Tickets Here
-- Code of Conduct
+Indie Game Con
+Presented By...
+TITLE SPONSOR
+
+Links to:
+Home, Games, Panels, Schedule, Sponsors, Media, About, Store
+
+What is Indie Game Con?
+- Explainer Video TODO
+- Explainer Text TODO
+
+Purchase Tickets Here!
+- Link to buy tickets, eventbrite
+
+What kind of things will be at Indie Game Con?
+- More detail on what Indie Game Con is about TODO
+
+Join our slack!
+- Link to our slack
+
+When and Where
+- Saturday & Sunday, November 9 & 10
+- Venue TBD, Map
+
+Want to submit a game or check out submitted games?
+- Link to games
+
+View Code of Conduct
+- Link to Code of Conduct
 
 ## Games
 - Submit Game (google form)
@@ -36,3 +58,6 @@
 ## About
 - Who we are
 - Leadership Team w/ images
+
+## Store
+- T-shirts
