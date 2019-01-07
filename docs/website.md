@@ -41,11 +41,13 @@ View Code of Conduct
 - Link to Code of Conduct
 
 ## Games
+Coming Soon...
 - Submit Game (google form)
 - List of submitted games
 - List of submitted developers
 
 ## Panels
+Coming Soon...
 - List of panels, workshops, presenters
 
 ## Schedule
