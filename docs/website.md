@@ -37,12 +37,10 @@ Kids, the very best game testers!
 - Saturday & Sunday, November 9 & 10
 - Venue TBD, Map
 
-#### Join our slack and mailing list
-- Link to our slack
-- Link to mailing list
+#### Join the conversation on the #indiegamecon2019 channel of the EugeneTech Slack http://eugslack.com
 
 #### Want to submit a game or check out submitted games?
-- Link to games
+- Link to game submission page
 
 #### View Code of Conduct
 - Link to Code of Conduct, make into page not a link to a github page
