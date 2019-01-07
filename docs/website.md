@@ -12,6 +12,7 @@ Home, Games, Panels, Schedule, Sponsors, Media, About, Store
 What is Indie Game Con?
 - Explainer Video TODO
 - Explainer:
+
 It’s tricky to market a game with no budget, and it’s difficult to labor in solitude on a passion project. But when strangers pick up the controller and start to laugh and smile, it all seems worth it. And when you meet fellow creators who understand the highs and lows of indie game development, you feel like you’ve found your tribe.
 
 That’s why Indie Game Con exists: to put creator-owned games in front of mainstream audiences, and build a space where game developers can hang out with their own.
@@ -23,6 +24,8 @@ Purchase Tickets Here!
 
 What kind of things will be at Indie Game Con?
 - More detail on what Indie Game Con is about TODO
+- What does "indie" mean?
+- Who should come to indie game con?
 
 Join our slack!
 - Link to our slack
