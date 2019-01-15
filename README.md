@@ -6,5 +6,6 @@ If you'd like to jump right in, here is [how to contribute](/docs/index.md).
 ### Leadership Team
 - [David Lo](https://github.com/pramslam)
 - [Mike Jones](https://github.com/MikeJDSGS)
-- [Andy Darnall](https://github.com/andy-dandy)
 - [Greg McKelvey](https://github.com/mckelveygreg)
+- [Andy Darnall](https://github.com/andy-dandy)
+- [Rory Fox](https://github.com/roryfox)
