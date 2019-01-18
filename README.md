@@ -9,3 +9,4 @@ If you'd like to jump right in, here is [how to contribute](/docs/index.md).
 - [Greg McKelvey](https://github.com/mckelveygreg)
 - [Andy Darnall](https://github.com/andy-dandy)
 - [Rory Fox](https://github.com/roryfox)
+- [Emily Decoteau](https://github.com/NornoftheWild)
