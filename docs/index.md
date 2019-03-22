@@ -1,5 +1,5 @@
 # Where do I start?
-Check out our issues!
+Check out our [issues](https://github.com/pramslam/IndieGameCon/issues)!
 
 ## Code of Conduct
 [View our Code of Conduct](https://github.com/pramslam/IndieGameCon/blob/master/CODE_OF_CONDUCT.md)
